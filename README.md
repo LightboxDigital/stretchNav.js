@@ -13,6 +13,8 @@
 
 This is a straight forward jQuery plugin to easily make navigations stretch to fill their container, it allows you to effect margin or padding and decide which element to apply these to; for example you may want to add margin to the sides of the list elements, or alternatively apply padding to the anchor elements.
 
+The plugin will automatically recalculate values when the window resizes, so it works great for responsive layouts!
+
 This plugin also contains options to modify it's output further, such as not applying the padding/margin to the ends of the navigation.
 
 ##How to install##
