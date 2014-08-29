@@ -21,7 +21,7 @@ This plugin also contains options to modify it's output further, such as not app
 
 All you need to do is place the 'stretchNav.js' in a location of your choosing and then include it in the <head> of your document like:
 ```html
-  <script type="text/javascript" src="/stretchNav.js" />
+  <script type="text/javascript" src="/stretchNav.min.js" />
 ```
 Be sure to include jQuery first!
 
