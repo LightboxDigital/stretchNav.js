@@ -40,11 +40,11 @@ The following is a list of arguments and their defaults, preset into the stretch
 
 ```js
 	$( 'nav ul' ).stretchNav({
-		applyEnds: false,	// Whether or not to add the same space to the end
-		target: 'li',		// The element to target, could be "> li > a"
-		mode: 'margin',		// Can be margin or padding
-		round: true,		// Whether or not to round the value down
-		threshold: 100		// How long to wait before recalculating on resize	
+		applyEnds:	false,		// Whether or not to add the same space to the end
+		target:		'li',		// The element to target, could be "> li > a"
+		mode:		'margin',	// Can be margin or padding
+		round: 		true,		// Whether or not to round the value down
+		threshold: 	100			// How long to wait before recalculating on resize	
 	});
 ```
 
